@@ -1,0 +1,40 @@
+{
+  "feature_columns": [
+    "total_products",
+    "bread_ratio",
+    "snacks_ratio",
+    "Qty",
+    "AVG",
+    "P_ratio",
+    "S_ratio",
+    "B_ratio",
+    "200g_ratio",
+    "O.P._ratio",
+    "800g_ratio",
+    "600g_ratio",
+    "KATIKATI_ratio",
+    "MANDAZI_ratio",
+    "DOUGHNUTS_ratio",
+    "50-50 SLICED_ratio",
+    "MANDO FAMILY PACK_ratio",
+    "4 Square_ratio"
+  ],
+  "product_columns": [
+    "P",
+    "S",
+    "B",
+    "200g",
+    "O.P.",
+    "800g",
+    "600g",
+    "KATIKATI",
+    "MANDAZI",
+    "DOUGHNUTS",
+    "50-50 SLICED",
+    "MANDO FAMILY PACK",
+    "4 Square"
+  ],
+  "created_date": "2026-01-19 16:44:45",
+  "optimal_clusters": 2,
+  "model_info": "<class 'sklearn.ensemble._forest.RandomForestClassifier'>"
+}
