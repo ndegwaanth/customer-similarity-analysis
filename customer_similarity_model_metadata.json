@@ -34,7 +34,7 @@
     "MANDO FAMILY PACK",
     "4 Square"
   ],
-  "created_date": "2026-01-19 16:44:45",
+  "created_date": "2026-01-19 16:56:07",
   "optimal_clusters": 2,
   "model_info": "<class 'sklearn.ensemble._forest.RandomForestClassifier'>"
 }
